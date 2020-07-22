@@ -5,7 +5,7 @@
     "description": "Implementation of TMDb's v3 API",
     "author": "Mikael Emilsson <mikael.emilsson@gmail.com>",
     "dependencies": {
-        "request": "2.9.x"
+        "request": "2.88.x"
     },
 	"devDependencies": {
 		"should": "*",
